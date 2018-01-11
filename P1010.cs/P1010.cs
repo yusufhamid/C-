@@ -1,5 +1,14 @@
-﻿/* tic tac toe game */
-﻿using System;
+/*
+10.10 (Tic-Tac-Toe) Create class TicTacToe that will enable you to write a complete app to play the game of Tic-Tac-Toe. 
+The class contains a private 3-by-3 rectangular array of integers. The constructor should initialize the empty board to all 0s.
+Allow two human players. Wherever the first player moves, place a 1 in the specified square, and place a 2 wherever the second
+player moves. Each move must be to an empty square. After each move, determine whether the game has been won and whether it’s a draw.
+If you feel ambitious, modify your app so that the computer makes the moves for one of the players. Also, allow the player to 
+specify whether he or she wants to go first or second. If you feel exceptionally ambitious, develop an app that will play
+three-dimensional Tic-Tac-Toe on a 4-by-4-by-4 board.
+*/
+
+using System;
 
 class TicTacToe
 {
