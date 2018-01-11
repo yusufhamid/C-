@@ -1,4 +1,9 @@
-﻿using System;
+/*
+3.24 (Odd or Even) Write an app that reads an integer, then determines and displays whether it’s odd or even. 
+[Hint: Use the remainder operator. An even number is a multiple of 2. Any multiple of 2 leaves a remainder of 0 when divided by 2.] 
+*/
+
+using System;
 
 namespace practice2
 {
