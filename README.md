@@ -1,3 +1,3 @@
 C# Class Assignments | 2016
 
-<img src="book.jpg" alt="Smiley face" width="200" height="250">
+<img src="book.jpg" alt="Visual C# How to Program" width="200" height="250">
